@@ -12,3 +12,11 @@ while(a < 8){
   a ++;
   console.log(a);
 }
+console.log("------");
+// another one. loop counts from 2 to 9
+let c = 1;
+
+while(c < 9){
+  c ++;
+  console.log(c);
+}
